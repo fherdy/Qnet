@@ -2,6 +2,7 @@ from flask import Flask, jsonify, request
 # import pandas
 import json
 
+
 app = Flask(__name__)
 
 # def __readInFile(path, list):
