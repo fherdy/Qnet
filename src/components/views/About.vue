@@ -3,6 +3,7 @@
     <div class="title mb-3">
       About...
     </div>
+   
     <div class="txt">
       Our goal is to have an online library, where stundets can upload various examples of questions from quizzes and tests from any class in any school. If your school is not listed, then you can list your school and start uploading questions.
     </div>
